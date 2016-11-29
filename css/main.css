@@ -292,6 +292,7 @@ center{
 #list{
 	width: 202px;
 	height: 45px;
+	z-index: 5;
 }
 #banner #list  li{
 	width:50px;
