@@ -236,7 +236,7 @@ center{
 	 background-color:#000;
 	 height:30px;filter: Alpha(Opacity=30);
 	 opacity:0.3;
-	 z-index:1000;
+	 z-index:5;
 	 cursor:pointer; 
 	 width:120px; 
 	}
@@ -246,7 +246,7 @@ center{
 	left:5px; 
 	line-height:30px;
 	color:#fff;
-	z-index:1001
+	z-index:5;
 }
 #banner_text {
 	position:absolute;
